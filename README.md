@@ -7,10 +7,10 @@ This is a Lottery
 3. If you need to replace the button name and value below, just replace the `btns` variable in `index.html`, you can see the code for details.
 
 ## usage
-> 滚动鼠标滚轮，可以放大或缩小球体
+> Roll the mouse wheel to zoom in or out of the sphere
 
-1. 用浏览器打开文件夹中的`index.html`文件
-2. 选择当次要抽奖的人数
-3. 点击『开始』按钮，进入抽奖状态（这个过程仍可修改抽奖人数）
-4. 点击『停！』按钮，生成抽奖结果
-5. 点击任意人数按钮，可以回到闲置状态，已中奖的用户标记为黄色，不会二次命中
+1. Open the index.html file in the folder with a browser.
+2. Select the number of people to be drawn.
+3. Click the "Start" button to enter the lottery state (the number of lotteries can still be modified in this process).
+4. Click "Stop!" Button to generate the lottery result.
+5. Click the button of any number of people, you can return to the idle state, the users who have won the prize are marked as yellow, and they will not hit twice.
