@@ -1,4 +1,4 @@
-# drawALottery
+# Lottery
 This is a Lottery
 
 ## notice
